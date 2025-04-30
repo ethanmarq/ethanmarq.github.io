@@ -3,7 +3,7 @@ title: "Real-Time Inference for Unmanned Ground Vehicles Using Lossy Compression
 collection: publications
 category: manuscripts
 permalink: /publication/realTimeInference
-excerpt: 'This paper is about developing systems of Unmaned Ground Vehicles (UGVs) that can navigate off-road environments using vision transformers.'
+excerpt: 'This paper explores the effects of compression on efficient transformers and how it may be applied to autonomous vehicles.'
 date: 2025-3-20
 venue: 'Journal of ITEA test and evaluation'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
