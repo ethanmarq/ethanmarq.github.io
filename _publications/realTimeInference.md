@@ -1,13 +1,13 @@
 ---
 title: "Real-Time Inference for Unmanned Ground Vehicles Using Lossy Compression and Deep Learning"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/realTimeInference
 excerpt: 'This paper is about developing systems of Unmaned Ground Vehicles (UGVs) that can navigate off-road environments using vision transformers.'
 date: 2025-3-20
 venue: 'Journal of ITEA test and evaluation'
-#slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: #'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
+paperurl: #'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Marquez, E., Niemczura, A., Taylor, C., Faykus III, M., Smith, M., & Calhoun, J. (2025). Real-Time Inference for Unmanned Ground Vehicles Using Lossy Compression and Deep Learning. In The ITEA Journal of Test and Evaluation (Vol. 46, Issue 1). International Test and Evaluation Association. https://doi.org/10.61278/itea.46.1.1004'
 ---
 
