@@ -1,14 +1,14 @@
 ---
 title: "Mitigating I/O Bottlenecks in LiDAR Pipelines by Directly Merging Neural Decompression and Semantic Segmentation"
 collection: publications
-category: poster
+category: conferences
 permalink: /publication/mitigatingIO
 excerpt: 'This poster is about improving real-time performance of LiDAR autonomous vehciles in rural enviroments.'
 date: 2025-11-18
 venue: 'Super Computing 2025'
 slidesurl: 'http://academicpages.github.io/files/mitigatingIO-slides.pdf'
 paperurl: 'http://academicpages.github.io/files/mitigatingIO-paper.pdf'
-citation: 'III, M. , Pickeral, A. , Marquez, E. , Smith, M. and Calhoun, J. (2024) Efficient Vision Transformers for Autonomous Off-Road Perception Systems. Journal of Computer and Communications, 12, 188-207. doi: 10.4236/jcc.2024.129011.'
+citation: '*Marquez, E., M. Faykus, O. Odetoye, Smith, M. Calhoun, J. (2025) Mitigating I/O Bottlenecks in LiDAR Pipelines by Directly Merging Neural Decompression and Semantic Segmentation.'
 ---
 
 
