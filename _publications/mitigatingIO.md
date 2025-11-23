@@ -6,8 +6,8 @@ permalink: /publication/mitigatingIO
 excerpt: 'This poster is about improving real-time performance of LiDAR autonomous vehciles in rural enviroments.'
 date: 2025-11-18
 venue: 'Super Computing 2025'
-slidesurl: 'http://academicpages.github.io/files/mitigatingIO-slides.pdf'
-paperurl: 'http://academicpages.github.io/files/mitigatingIO-paper.pdf'
+slidesurl: 'https://ethanmarq.github.io/files/mitigatingIO-slides.pdf'
+paperurl: 'https://ethanmarq.github.io/files/mitigatingIO-paper.pdf'
 citation: '*Marquez, E., M. Faykus, O. Odetoye, Smith, M. Calhoun, J. (2025) Mitigating I/O Bottlenecks in LiDAR Pipelines by Directly Merging Neural Decompression and Semantic Segmentation.'
 ---
 
