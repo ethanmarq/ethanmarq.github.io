@@ -1,7 +1,7 @@
 ---
 title: "Mitigating I/O Bottlenecks in LiDAR Pipelines by Directly Merging Neural Decompression and Semantic Segmentation"
 collection: publications
-category: conferences
+category: posters
 permalink: /publication/mitigatingIO
 excerpt: 'This poster is about improving real-time performance of LiDAR autonomous vehciles in rural enviroments.'
 date: 2025-11-18
