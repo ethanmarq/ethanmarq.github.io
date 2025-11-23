@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a link you can use to access my [Public CV](https://drive.google.com/file/d/141I9o5-2dOKdBm7sZQXuXyqJloczQ0Dw/view?usp=sharing).
+Here is a link you can use to access my [Public CV](https://drive.google.com/file/d/1KJBh8OZl-2t8PZdOuXH_OCbu7vy3Az8x/view?usp=sharing).
