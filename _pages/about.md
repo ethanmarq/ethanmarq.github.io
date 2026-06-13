@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ethan Marquez. I study Computer Science at Clemson University, with a minor in Physics and AI. I am looking for gradute programs with the goal of obtaining a Doctorate in Mathematics (preferabbly near a [Bortle <=4](https://en.wikipedia.org/wiki/Bortle_scale?useskin=vector).
+Hi, I am Ethan Marquez. I study Computer Science at Clemson University, with a minor in Physics and AI. I am looking for gradute programs with the goal of obtaining a Doctorate in Mathematics (preferably near a [Bortle <=4](https://en.wikipedia.org/wiki/Bortle_scale?useskin=vector)).
 
 Right now my interests center around [mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization?useskin=vector), under the guidence of [Dr. Kai Liu](https://sites.google.com/view/kailiu/home). I have been studying machine learning since 2023 under [Dr. Melissa Smith](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/msmith.html), in her lab [Machine Learning and Big Data](https://cufctl.github.io/mlbd/).
 
