@@ -11,7 +11,7 @@ Hi, I am Ethan Marquez. I study Computer Science at Clemson University, with a m
 
 Right now my interests center around [mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization?useskin=vector), under the guidence of [Dr. Kai Liu](https://sites.google.com/view/kailiu/home). I have been studying machine learning since 2023 under [Dr. Melissa Smith](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/msmith.html), in her lab [Machine Learning and Big Data](https://cufctl.github.io/mlbd/).
 
-My current studies/research realtes to continous manifold optimizaiton over the [Stiefel manifold](https://en.wikipedia.org/wiki/Stiefel_manifold?useskin=vector).
+My current studies/research relates to continous manifold optimizaiton over the [Stiefel manifold](https://en.wikipedia.org/wiki/Stiefel_manifold?useskin=vector).
 
 - I primarily use Matlab for math research (the simplicity is mesmerizing).
 - Plenty of experience deploying and architecting various Segmentation Neural Networks in PyTorch.
