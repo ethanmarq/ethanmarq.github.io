@@ -9,8 +9,11 @@ redirect_from:
 
 Hi, I am Ethan Marquez. I study Computer Science at Clemson University, with a minor in Physics and AI.
 
-Right now my interests center around mathematical optimization, under the guidence of [Dr. Kai Liu](https://sites.google.com/view/kailiu/home). I have been studying machine learning since 2023 under [Dr. Melissa Smith](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/msmith.html), in her lab [Machine Learning and Big Data](https://cufctl.github.io/mlbd/).
+Right now my interests center around [mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization?useskin=vector), under the guidence of [Dr. Kai Liu](https://sites.google.com/view/kailiu/home). I have been studying machine learning since 2023 under [Dr. Melissa Smith](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/msmith.html), in her lab [Machine Learning and Big Data](https://cufctl.github.io/mlbd/).
 
+My current studies/research realtes to continous manifold optimizaiton over the [Stiefel manifold](https://en.wikipedia.org/wiki/Stiefel_manifold?useskin=vector).
 
-
-I build practical software for machine learning and computational math projects, with strengths in Python and experiment-driven development. I've implemented models in PyTorch and taken graduate coursework in mathematical machine learning, CUDA C/OpenMP, and compression. Recently, I presented research at Supercomputing (SC25) on optimizing computer vision pipelines for bandwidth-constrained environments. My interests include convex optimization, scientific machine learning applications, computer vision, compression, and computational physics. 
+- I primarily use Matlab for math research (the simplicity is mesmerizing).
+- Plenty of experience deploying and architecting various Segmentation Neural Networks in PyTorch.
+- I've taken graduate classes in Cuda C (coding gpu kernels), Mathematical Machine Learning (not deep learning slop), High Performance Computing Compressioan.
+- I've presented a poster at Supercomputing (SC25), published two papers on RGB/LiDAR Semantic Semgentation for autonomous vehicles, and am currently work on mathematical papers on non-Convex non-Smooth optimization frameworks, Support Vector Machines, and Multinomial Logisitc Regression.
