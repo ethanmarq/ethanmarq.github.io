@@ -26,4 +26,4 @@ Some hobbies
 - writing
 - piano
 - astrophotography
-- [doom emacs](https://github.com/doomemacs) <3
+- [doom emacs](https://github.com/doomemacs) & [NixOS](https://nixos.org/) <3
