@@ -22,3 +22,4 @@ Some hobbies
 - reading science fiction (Children of Time), more fiction (Dune, LOTR, Red Rising), physics (Stephen  Hawking, Halliday Resnick), philosphy/psychology (Viktor E. Frankl, Albert Camus), distopians (George Orwell, Ursla K. Le Guin), and especailly the holy scriptures of Mortimer J. Adler
 - hiking 
 - writing
+- doom emacs <3
