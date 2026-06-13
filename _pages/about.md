@@ -17,3 +17,5 @@ My current studies/research realtes to continous manifold optimizaiton over the 
 - Plenty of experience deploying and architecting various Segmentation Neural Networks in PyTorch.
 - I've taken graduate classes in Cuda C (coding gpu kernels), Mathematical Machine Learning (not deep learning slop), High Performance Computing Compressioan.
 - I've presented a poster at Supercomputing (SC25), published two papers on RGB/LiDAR Semantic Semgentation for autonomous vehicles, and am currently work on mathematical papers on non-Convex non-Smooth optimization frameworks, Support Vector Machines, and Multinomial Logisitc Regression.
+
+I am looking for gradute programs with the goal of obtaining a Doctorate in Mathematics.
