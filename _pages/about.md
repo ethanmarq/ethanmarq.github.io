@@ -19,3 +19,8 @@ My current studies/research relates to continous manifold optimizaiton over the 
 - I've presented a poster at Supercomputing (SC25), published two papers on RGB/LiDAR Semantic Semgentation for autonomous vehicles, and am currently work on mathematical papers for non-Convex non-Smooth optimization frameworks, Support Vector Machines, and Multinomial Logisitc Regression.
 
 I am looking for gradute programs with the goal of obtaining a Doctorate in Mathematics.
+
+Some hobbies
+- reading science fiction (Children of Time), more fiction (Dune, LOTR, Red Rising), physics (Stephen  Hawking, Halliday Resnick), philosphy/psychology (Viktor E. Frankl, Albert Camus), distopians (George Orwell, Ursla K. Le Guin), whole bunch more
+- hiking 
+- writing
