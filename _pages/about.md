@@ -21,6 +21,6 @@ My current studies/research relates to continous manifold optimizaiton over the 
 I am looking for gradute programs with the goal of obtaining a Doctorate in Mathematics.
 
 Some hobbies
-- reading science fiction (Children of Time), more fiction (Dune, LOTR, Red Rising), physics (Stephen  Hawking, Halliday Resnick), philosphy/psychology (Viktor E. Frankl, Albert Camus), distopians (George Orwell, Ursla K. Le Guin), whole bunch more
+- reading science fiction (Children of Time), more fiction (Dune, LOTR, Red Rising), physics (Stephen  Hawking, Halliday Resnick), philosphy/psychology (Viktor E. Frankl, Albert Camus), distopians (George Orwell, Ursla K. Le Guin), and especailly the holy scriptures of Mortimer J. Adler
 - hiking 
 - writing
