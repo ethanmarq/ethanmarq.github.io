@@ -25,4 +25,5 @@ Some hobbies
 - hiking 
 - writing
 - piano
+- astrophotography
 - [doom emacs](https://github.com/doomemacs) <3
